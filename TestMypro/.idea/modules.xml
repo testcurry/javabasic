@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CommonClass/CommonClass.iml" filepath="$PROJECT_DIR$/CommonClass/CommonClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SynchronizedTest/SynchronizedTest.iml" filepath="$PROJECT_DIR$/SynchronizedTest/SynchronizedTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TCPIPTest/TCPIPTest.iml" filepath="$PROJECT_DIR$/TCPIPTest/TCPIPTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestMypro.iml" filepath="$PROJECT_DIR$/TestMypro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/collectionAndMap/collectionAndMap.iml" filepath="$PROJECT_DIR$/collectionAndMap/collectionAndMap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/generic/generic.iml" filepath="$PROJECT_DIR$/generic/generic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaIO/javaIO.iml" filepath="$PROJECT_DIR$/javaIO/javaIO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jdbctest/jdbctest.iml" filepath="$PROJECT_DIR$/jdbctest/jdbctest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/reflection/reflection.iml" filepath="$PROJECT_DIR$/reflection/reflection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stringTest/stringTest.iml" filepath="$PROJECT_DIR$/stringTest/stringTest.iml" />
+    </modules>
+  </component>
+</project>
