@@ -1,8 +1,7 @@
 package atguigu.jdbc.crud;
 
 import atguigu.jdbc.utils.JDBCUtils;
-import org.testng.annotations.Test;
-
+import org.junit.jupiter.api.Test;
 import java.sql.Connection;
 import java.sql.PreparedStatement;
 

@@ -1,7 +1,7 @@
 package atguigu.jdbc.batch;
 
 import atguigu.jdbc.utils.JDBCUtils;
-import org.testng.annotations.Test;
+import org.junit.Test;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;

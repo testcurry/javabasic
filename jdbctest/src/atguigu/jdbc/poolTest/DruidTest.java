@@ -4,7 +4,8 @@ package atguigu.jdbc.poolTest;/**
  */
 
 import com.alibaba.druid.pool.DruidDataSourceFactory;
-import org.testng.annotations.Test;
+import org.junit.jupiter.api.Test;
+
 
 import javax.sql.DataSource;
 import java.io.InputStream;

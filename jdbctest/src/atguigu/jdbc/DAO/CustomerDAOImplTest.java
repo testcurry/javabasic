@@ -2,7 +2,8 @@ package atguigu.jdbc.DAO;
 
 import atguigu.jdbc.bean.Customer;
 import atguigu.jdbc.utils.JDBCUtils;
-import org.testng.annotations.Test;
+import org.junit.jupiter.api.Test;
+
 
 import java.sql.Connection;
 import java.util.Date;

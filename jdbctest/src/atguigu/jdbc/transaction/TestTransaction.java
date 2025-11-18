@@ -2,7 +2,8 @@ package atguigu.jdbc.transaction;
 
 import atguigu.jdbc.bean.UserTable;
 import atguigu.jdbc.utils.JDBCUtils;
-import org.testng.annotations.Test;
+import org.junit.jupiter.api.Test;
+
 
 import java.lang.reflect.Field;
 import java.sql.*;

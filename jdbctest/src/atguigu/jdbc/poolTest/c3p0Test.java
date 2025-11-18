@@ -5,7 +5,8 @@ package atguigu.jdbc.poolTest;/**
 
 
 import com.mchange.v2.c3p0.ComboPooledDataSource;
-import org.testng.annotations.Test;
+import org.junit.Test;
+
 
 import java.sql.Connection;
 

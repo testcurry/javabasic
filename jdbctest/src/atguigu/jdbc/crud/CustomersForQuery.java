@@ -3,7 +3,7 @@ package atguigu.jdbc.crud;
 import atguigu.jdbc.bean.Customer;
 import atguigu.jdbc.bean.Order;
 import atguigu.jdbc.utils.JDBCUtils;
-import org.testng.annotations.Test;
+import org.junit.jupiter.api.Test;
 
 import java.lang.reflect.Field;
 import java.sql.*;

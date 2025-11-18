@@ -1,6 +1,6 @@
 package atguigu.jdbc.connection;
 
-import org.testng.annotations.Test;
+import org.junit.jupiter.api.Test;
 
 import java.io.InputStream;
 import java.sql.Connection;

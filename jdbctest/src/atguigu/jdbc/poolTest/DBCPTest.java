@@ -5,8 +5,7 @@ package atguigu.jdbc.poolTest;/**
 
 import org.apache.commons.dbcp2.BasicDataSource;
 import org.apache.commons.dbcp2.BasicDataSourceFactory;
-import org.testng.annotations.Test;
-
+import org.junit.jupiter.api.Test;
 import java.io.InputStream;
 import java.sql.Connection;
 import java.sql.SQLException;

@@ -3,7 +3,7 @@ package atguigu.jdbc.test;
 import atguigu.jdbc.DAO.CustomerDAOImpl;
 import atguigu.jdbc.bean.Customer;
 import atguigu.jdbc.utils.JDBCUtils;
-import org.testng.annotations.Test;
+import org.junit.jupiter.api.Test;
 
 import java.sql.Connection;
 import java.util.List;
